@@ -69,5 +69,36 @@
       <enclosure url="https://traffic.megaphone.fm/GLT4737660384.mp3?updated=1547760585" length="0" type="audio/mpeg" />
       <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Gimlet</dc:creator><media:content url="https://traffic.megaphone.fm/GLT4737660384.mp3?updated=1547760585" type="audio/mpeg" /><itunes:keywords>Storytelling</itunes:keywords>
     </item>
+    <item>
+      <title>Do By Friday - Bee. Wasp. Hornet.</title>
+      <guid isPermaLink="false">fe9e6cf9-eef6-4046-b357-20f8f73629b0</guid>
+      <link>http://dobyfriday.com/109</link>
+      <description>This week's challenge: solve a mystery.
+</description>
+      <content:encoded>
+        <![CDATA[<p><strong>This week's challenge: solve a mystery.</strong></p>
+
+<p><a href="https://www.patreon.com/dobyfriday">You can hear the after show and support Do By Friday on Patreon!</a></p>
+
+<p><strong>Show Notes</strong></p>
+
+<p><em>They’re a mystery.</em></p>
+]]>
+      </content:encoded>
+      <pubDate>Thu, 06 Dec 2018 15:40:00 -0600</pubDate>
+      <author>alexcox42@gmail.com (Merlin Mann, Alex Cox, and Max Temkin)</author>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/audio.simplecast.com/5f053c01.mp3" length="39189638" type="audio/mpeg"/>
+      <itunes:author>Merlin Mann, Alex Cox, and Max Temkin</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/237156/1544132868-artwork.jpg"/>
+      <itunes:duration>00:43:38</itunes:duration>
+      <itunes:summary>This week's challenge: solve a mystery.
+</itunes:summary>
+      <itunes:subtitle>This week's challenge: solve a mystery.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>109</itunes:episode>
+    </item>
   </channel>
 </rss>
