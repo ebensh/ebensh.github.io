@@ -76,13 +76,13 @@
       <description>This week's challenge: solve a mystery.
 </description>
       <content:encoded>
-        <![CDATA[<p><strong>This week's challenge: solve a mystery.</strong></p>
+        <![CDATA[&lt;p&gt;&lt;strong&gt;This week's challenge: solve a mystery.&lt;/strong&gt;&lt;/p&gt;
 
-<p><a href="https://www.patreon.com/dobyfriday">You can hear the after show and support Do By Friday on Patreon!</a></p>
+&lt;p&gt;&lt;a href=&quot;https://www.patreon.com/dobyfriday&quot;&gt;You can hear the after show and support Do By Friday on Patreon!&lt;/a&gt;&lt;/p&gt;
 
-<p><strong>Show Notes</strong></p>
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
 
-<p><em>They’re a mystery.</em></p>
+&lt;p&gt;&lt;em&gt;They&rsquo;re a mystery.&lt;/em&gt;&lt;/p&gt;
 ]]>
       </content:encoded>
       <pubDate>Thu, 06 Dec 2018 15:40:00 -0600</pubDate>
