@@ -87,5 +87,25 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>109</itunes:episode>
     </item>
+    <item>
+      <title>Freakonomics #362 Why Is This Man Running for President?</title>
+      <description>
+        <![CDATA[<p>In the American Dream sweepstakes, Andrew Yang was a pretty big winner. But for every winner, he came to realize, there are thousands upon thousands of losers — a “war on normal people,” he calls it. Here’s what he plans to do about it.</p>]]>
+      </description>
+      <itunes:title>Why Is This Man Running for President?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>362</itunes:episode>
+      <itunes:summary>In the American Dream sweepstakes, Andrew Yang was a pretty big winner. But for every winner, he came to realize, there are thousands upon thousands of losers — a “war on normal people,” he calls it. Here’s what he plans to do about it.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In the American Dream sweepstakes, Andrew Yang was a pretty big winner. But for every winner, he came to realize, there are thousands upon thousands of losers — a “war on normal people,” he calls it. Here’s what he plans to do about it.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/M1bTK0LgvJ-g_Dyb4yAslTA_twftDSCm5RV1tmpt3AM</guid>
+      <pubDate>Thu, 10 Jan 2019 04:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/01/73/7e/02/01737e02-609c-40c0-8cb1-6c010b5a170b/7300ad8b177115c141228ae24897bb5b828ba645232b5732ec43d9610a782138cd3d69d0c88f44559420c2ded82022e03600e57040740f1c7b42c93bfc06a675.jpeg"/>
+      <itunes:keywords>2020 Election,dubner productions,stitcher,Stephen J. Dubner,freakonomics radio,andrew yang</itunes:keywords>
+      <itunes:duration>00:52:10</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/ce5f03c5-8f78-4842-a52e-abf40bf00d77.mp3" type="audio/mpeg" length="50080705"/>
+    </item>
   </channel>
 </rss>
