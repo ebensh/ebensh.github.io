@@ -107,5 +107,39 @@
       <itunes:duration>00:52:10</itunes:duration>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/ce5f03c5-8f78-4842-a52e-abf40bf00d77.mp3" type="audio/mpeg" length="50080705"/>
     </item>
+    <item>
+      <title>Friendly Fire - Valkyrie</title>
+      <description>
+        <![CDATA[<p>Valkyrie: is this a film where the heroes unfortunately don’t succeed, or are we just watching the lesser of two evils fail? On today’s episode Adam, Ben, and John find out that "Anything" is a very dangerous word, when they review this 2008 thriller. </p><p>This film is available on:</p><p><a href="https://amzn.to/2qYE2Bg" target="_blank">Amazon</a>, <a href="https://itunes.apple.com/us/movie/valkyrie/id312089915?mt=6&amp;ign-mpt=uo%3D4" target="_blank">iTunes</a>, YouTube, and Google Play</p><p><br></p><p><a href="http://maximumfun.org/donate" target="_blank">Support our show!</a></p><p>Next Film, Pearl Harbor, is available on:</p><p><a href="https://geo.itunes.apple.com/us/movie/pearl-harbor/id207105360?mt=6&amp;at=1000lPzL" target="_blank">itunes</a>, Netflix, Showtime, YouTube, Google Play</p>]]>
+      </description>
+      <itunes:title>Valkyrie</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>47</itunes:episode>
+      <itunes:summary>Valkyrie: is this a film where the heroes unfortunately don’t succeed, or are we just watching the lesser of two evils fail? On today’s episode Adam, Ben, and John find out that "Anything" is a very dangerous word, when they review this 2008 thriller. 
+
+This film is available on:
+
+Amazon, iTunes, YouTube, and Google Play
+
+
+
+
+Support our show!
+
+Next Film, Pearl Harbor, is available on:
+
+itunes, Netflix, Showtime, YouTube, Google Play</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Valkyrie: is this a film where the heroes unfortunately don’t succeed, or are we just watching the lesser of two evils fail? On today’s episode Adam, Ben, and John find out that "Anything" is a very dangerous word, when they review this 2008 thriller. </p><p>This film is available on:</p><p><a href="https://amzn.to/2qYE2Bg" target="_blank">Amazon</a>, <a href="https://itunes.apple.com/us/movie/valkyrie/id312089915?mt=6&amp;ign-mpt=uo%3D4" target="_blank">iTunes</a>, YouTube, and Google Play</p><p><br></p><p><a href="http://maximumfun.org/donate" target="_blank">Support our show!</a></p><p>Next Film, Pearl Harbor, is available on:</p><p><a href="https://geo.itunes.apple.com/us/movie/pearl-harbor/id207105360?mt=6&amp;at=1000lPzL" target="_blank">itunes</a>, Netflix, Showtime, YouTube, Google Play</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/z6bwlg9HE9HZHdDF_Af0bw29KrH6wBR7zHh2mY20pVY</guid>
+      <pubDate>Fri, 30 Nov 2018 08:00:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/77/af/8e/a9/77af8ea9-e690-4b3e-8f3c-131bd0e53ab7/774a54a30196a2c2c60e23ee89d8ac8adf3f8a1e00907d0d707194a06aeddf78a08c23a3cbbf3b38bf5e0359c60d2876c8a9c0103836f356e0e91871a2f53bda.jpeg" />
+      <itunes:keywords>Film,history,war</itunes:keywords>
+      <itunes:duration>01:32:07</itunes:duration>
+      <enclosure url="https://rss.art19.com/episodes/d3a4642b-cfaa-43d1-9229-c49db801cc8a.mp3" type="audio/mpeg" length="88443506" />
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Roderick, Adam Pranica and Benjamin Ahr Harrison</dc:creator><media:content url="https://rss.art19.com/episodes/d3a4642b-cfaa-43d1-9229-c49db801cc8a.mp3" fileSize="88443506" type="audio/mpeg" /><itunes:subtitle> Valkyrie: is this a film where the heroes unfortunately don’t succeed, or are we just watching the lesser of two evils fail? On today’s episode Adam, Ben, and John find out that "Anything" is a very dangerous word, when they review this 2008 thriller. Th</itunes:subtitle><itunes:author>John Roderick, Adam Pranica and Benjamin Ahr Harrison</itunes:author></item>
+
   </channel>
 </rss>
