@@ -139,7 +139,22 @@ itunes, Netflix, Showtime, YouTube, Google Play</itunes:summary>
       <itunes:keywords>Film,history,war</itunes:keywords>
       <itunes:duration>01:32:07</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/d3a4642b-cfaa-43d1-9229-c49db801cc8a.mp3" type="audio/mpeg" length="88443506" />
-    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Roderick, Adam Pranica and Benjamin Ahr Harrison</dc:creator><media:content url="https://rss.art19.com/episodes/d3a4642b-cfaa-43d1-9229-c49db801cc8a.mp3" fileSize="88443506" type="audio/mpeg" /><itunes:subtitle> Valkyrie: is this a film where the heroes unfortunately don’t succeed, or are we just watching the lesser of two evils fail? On today’s episode Adam, Ben, and John find out that "Anything" is a very dangerous word, when they review this 2008 thriller. Th</itunes:subtitle><itunes:author>John Roderick, Adam Pranica and Benjamin Ahr Harrison</itunes:author></item>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Roderick, Adam Pranica and Benjamin Ahr Harrison</dc:creator><media:content url="https://rss.art19.com/episodes/d3a4642b-cfaa-43d1-9229-c49db801cc8a.mp3" fileSize="88443506" type="audio/mpeg" /><itunes:subtitle> Valkyrie: is this a film where the heroes unfortunately don’t succeed, or are we just watching the lesser of two evils fail? On today’s episode Adam, Ben, and John find out that "Anything" is a very dangerous word, when they review this 2008 thriller. Th</itunes:subtitle><itunes:author>John Roderick, Adam Pranica and Benjamin Ahr Harrison</itunes:author>
+    </item>
+    <item>
+      <title>Decoder Ring #1 - Baby Shark</title>
+      <description>Baby Shark is an megaviral YouTube video, an unstoppable earworm, a top 40 hit, a Eurodance smash, a decades old campfire song, and the center of an international copyright dispute. This month on Decoder Ring we explore the strange history and conflicted future of the song, what makes it so catchy, and how it came to be. &amp;nbsp;</description>
+      <pubDate>Mon, 25 Feb 2019 07:00:00 -0000</pubDate>
+      <itunes:author>Slate</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Baby Shark is an megaviral YouTube video, an unstoppable earworm, a top 40 hit, a Eurodance smash, a decades old campfire song, and the center of an international copyright dispute. This month on Decoder Ring we explore the strange history and conflicted future of the song, what makes it so catchy, and how it came to be.  </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Baby Shark is an megaviral YouTube video, an unstoppable earworm, a top 40 hit, a Eurodance smash, a decades old campfire song, and the center of an international copyright dispute. This month on Decoder Ring we explore the strange history and conflicted future of the song, what makes it so catchy, and how it came to be. &nbsp;]]>
+      </itunes:summary>
+      <itunes:duration>2297</itunes:duration>
+      <guid isPermaLink="false"><![CDATA[a0c49ef8-b1df-11e8-b7d6-4f36be82dece]]></guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/SLT7541984667.mp3" length="0" type="audio/mpeg"/>
+    </item>
 
   </channel>
 </rss>
